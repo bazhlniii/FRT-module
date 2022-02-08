@@ -1,2 +1,2 @@
-# FRT-module
-CV modules including FRT module and DWT module, developed by HITSZ liu's group.
+# FWTNet
+CV backbones including FRT module, DWT module and FWTNet developed by HITSZ liu's group.
